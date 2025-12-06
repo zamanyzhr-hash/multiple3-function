@@ -1,0 +1,6 @@
+C:\Users\almas\Desktop\New folder\multi3-function\multi3-function\bin\Debug\multi3-function.exe.config
+C:\Users\almas\Desktop\New folder\multi3-function\multi3-function\bin\Debug\multi3-function.exe
+C:\Users\almas\Desktop\New folder\multi3-function\multi3-function\bin\Debug\multi3-function.pdb
+C:\Users\almas\Desktop\New folder\multi3-function\multi3-function\obj\Debug\multi3-function.csprojResolveAssemblyReference.cache
+C:\Users\almas\Desktop\New folder\multi3-function\multi3-function\obj\Debug\multi3-function.exe
+C:\Users\almas\Desktop\New folder\multi3-function\multi3-function\obj\Debug\multi3-function.pdb
